@@ -1,0 +1,1 @@
+Scripts are run sequentially, with the data from the previous being saved as a .csv and then read into the next script. 
